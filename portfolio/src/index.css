@@ -1,1 +1,4 @@
 @import "tailwindcss";
+:root {
+  --primary-col: 219, 195, 186;
+}
