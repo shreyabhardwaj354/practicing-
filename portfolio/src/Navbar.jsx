@@ -13,7 +13,7 @@ export default function Navbar() {
           Home
         </a>
         <a
-          href=""
+          href="#about"
           className="hover:text-white hover:border-b-1  hover:border-b-fuchsia-900 transition-color duration-300 "
         >
           About
