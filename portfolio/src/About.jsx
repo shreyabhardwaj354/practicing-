@@ -1,6 +1,6 @@
 export default function About() {
   return (
-    <div className="max-h-dvh w-full border-t-2 border-b-2 border-dashed">
+    <div className="min-h-screen w-full border-t-2 border-b-2 border-dashed bg-amber-500">
       <h1 className="text-center text-4xl text-gray-600 m-12 ">
         Get To Know Me
       </h1>
