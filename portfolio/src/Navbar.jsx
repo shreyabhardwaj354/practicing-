@@ -19,10 +19,10 @@ export default function Navbar() {
           About
         </a>
         <a
-          href="learning"
+          href="#learning"
           className="hover:text-white hover:border-b-1  hover:border-b-fuchsia-900 transition-color duration-300 "
         >
-          Experience
+          Learning
         </a>
         <a
           href=""
@@ -43,7 +43,7 @@ export default function Navbar() {
           Services
         </a>
         <a
-          href=""
+          href="#contact"
           className="hover:text-white hover:border-b-1  hover:border-b-fuchsia-900 transition-color duration-300 "
         >
           Contact

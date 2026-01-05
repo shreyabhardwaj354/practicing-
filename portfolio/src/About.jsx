@@ -1,10 +1,10 @@
 export default function About() {
   return (
-    <div className="min-h-screen w-full border-t-2 border-b-2 border-dashed bg-amber-500">
+    <div className="py-16 w-full border-t-2 border-b-2 border-dashed bg-amber-500 ">
       <h1 className="text-center text-4xl text-gray-600 m-12 ">
         Get To Know Me
       </h1>
-      <div className="flex justify-center items-start w-full min-h-dvh  flex-col gap-9 md:flex-row md:max-w-5xl max-w-100  mx-auto">
+      <div className="flex justify-center items-start w-full min-h-16 flex-col gap-9 md:flex-row md:max-w-5xl max-w-100  mx-auto">
         <div className="md:w-[60%] w-full">
           <div className="flex flex-col border-2 p-11 gap-6 bg-gray-500 text-white rounded-2xl hover:text-gray-500 hover:bg-white transition-colors duration-300">
             <h1 className="font-bold text-2xl underline underline-offset-3">
