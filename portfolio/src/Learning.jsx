@@ -1,6 +1,6 @@
 import adulting from "./assets/adulting.jpg";
 import reading from "./assets/reading.jpg";
-import coder from "./assets/coder.jpg";
+import coder from "./assets/Coder.jpg";
 
 export default function Learning() {
   return (
